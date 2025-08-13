@@ -133,7 +133,7 @@ jedi
 jellyfish
 Jinja2
 jmespath
-joblib
+joblib==1.5.1
 json5
 jsonpatch
 jsonpointer==2.1
@@ -393,9 +393,3 @@ zict
 zipp
 zope.interface
 zstandard
-
-
-
-
-
-
