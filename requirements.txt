@@ -2,6 +2,9 @@
 nginx
 
 streamlit
-joblib
+numpy
+pandas
+mathplotlib.pyplot
+
 
 
