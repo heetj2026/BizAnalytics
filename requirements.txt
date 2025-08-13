@@ -5,6 +5,8 @@ streamlit
 numpy
 pandas
 mathplotlib.pyplot
+joblib
+
 
 
 
